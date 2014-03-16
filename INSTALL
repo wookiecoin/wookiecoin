@@ -1,9 +1,9 @@
-Building FooCoin
+Building WookieCoin
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building wookiecoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of WookieCoin.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building wookiecoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of WookieCoin.
