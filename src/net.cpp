@@ -998,6 +998,7 @@ void ThreadSocketHandler2(void* parg)
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
     {"seed0.wookiecoin.org", "seed0.wookiecoin.org"},
+    {"seed1.wookiecoin.org", "seed1.wookiecoin.org"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
